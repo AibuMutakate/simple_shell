@@ -23,5 +23,4 @@ int custom_cmp(char *a, char *b);
 char *custom_dup(char *src);
 char *custom_token(char *string, char b, int pos);
 
-
 #endif
